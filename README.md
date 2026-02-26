@@ -56,7 +56,7 @@ Ejemplos con:
 
 ## Tecnologías utilizadas
 
-- LaTeX  : https://www.overleaf.com/project/699fe84364e814a617d5f683
+- LaTeX  : https://www.overleaf.com/read/pyckkkrcsjrq#6b79e9
 
 
 ##  Objetivo
