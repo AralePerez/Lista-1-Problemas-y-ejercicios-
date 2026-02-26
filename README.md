@@ -1,5 +1,5 @@
 # Lista-1-Problemas-y-ejercicios-
-# 📚 Teoría de Lenguajes Formales – Propiedades y Operaciones
+# Teoría de Lenguajes Formales – Propiedades y Operaciones
 
 Este repositorio contiene el desarrollo de ejercicios y demostraciones sobre **Lenguajes Formales**, abordando propiedades fundamentales como concatenación, reverso, estrella de Kleene, longitud de cadenas y operaciones entre lenguajes.
 
@@ -89,6 +89,8 @@ El repositorio incluye:
 
 ---
 
-## ✍️ Autor
+##  Autor
+Nombre: Juárez Hipólito Marco Antonio 
+Nombre: Perez Flores Arale 
+Nombre: Roque Villegas Iván 
 
-Trabajo académico desarrollado como práctica de teoría de lenguajes formales.
