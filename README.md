@@ -1,5 +1,5 @@
-# Lista-1-Problemas-y-ejercicios-
-# Teoría de Lenguajes Formales – Propiedades y Operaciones
+# Lista  1 Problemas y ejercicios
+# Teoría de Lenguajes Formales Propiedades y Operaciones
 
 Este repositorio contiene el desarrollo de ejercicios y demostraciones sobre **Lenguajes Formales**, abordando propiedades fundamentales como concatenación, reverso, estrella de Kleene, longitud de cadenas y operaciones entre lenguajes.
 
@@ -18,7 +18,7 @@ Se estudian y demuestran propiedades como:
 - (A+)^R = (A^R)+  
 - Definición recursiva de A^n  
 
----
+
 
 ### Longitud de cadenas
 
@@ -32,7 +32,7 @@ También se demuestra por inducción:
 
 - |Σ^n| = |Σ|^n  
 
----
+
 
 ### Prefijos y Sufijos
 
@@ -41,7 +41,6 @@ Se determinan:
 - Prefijos de una cadena dada  
 - Sufijos de una cadena dada  
 
----
 
 ###  Lenguajes sobre alfabetos
 
@@ -53,12 +52,12 @@ Ejemplos con:
 - Lenguajes finitos e infinitos  
 - Unión, intersección y concatenación  
 
----
+
 
 ## Tecnologías utilizadas
 
 - LaTeX  : https://www.overleaf.com/project/699fe84364e814a617d5f683
----
+
 
 ##  Objetivo
 
@@ -76,7 +75,7 @@ Este material es útil para cursos de:
 - Matemáticas Discretas  
 - Fundamentos de Computación  
 
----
+
 
 ## Estructura
 
@@ -87,10 +86,11 @@ El repositorio incluye:
 - Ejemplos prácticos  
 - Implementación en LaTeX  
 
----
 
 ##  Autor
 Nombre: Juárez Hipólito Marco Antonio 
+
 Nombre: Perez Flores Arale 
+
 Nombre: Roque Villegas Iván 
 
